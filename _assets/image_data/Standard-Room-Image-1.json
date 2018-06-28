@@ -1,0 +1,19 @@
+{
+  "name": "Standard Room Image 1",
+  "file_name": "Standard Room Image 1",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_28_61/media/2018-06-28-040148/69121_1_yankee_large.png",
+  "tags": "",
+  "description": "",
+  "date_added": "2018-06-28-040148",
+  "file_type": "image/jpeg",
+  "width": 800,
+  "height": 600,
+  "file_size": 369032,
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_28_61/media/2018-06-28-040148/large_69121_1_yankee_large.png",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_28_61/media/2018-06-28-040148/medium_69121_1_yankee_large.png",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_28_61/media/2018-06-28-040148/small_69121_1_yankee_large.png",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_28_61/media/2018-06-28-040148/xsmall_69121_1_yankee_large.png",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_28_61/media/2018-06-28-040148/thumb_69121_1_yankee_large.png",
+  "caption": "Image 1",
+  "alt": "Image 1"
+}
